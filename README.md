@@ -1,5 +1,3 @@
-# Youtube-view-predictor
-This is a small but meaningful project I created while learning Machine Learning. It’s a YouTube View Predictor that estimates how many views a video might get based on some features before uploading. Although I’m still on my journey to mastering ML, every small step counts and brings happiness. 
 # YouTube View Predictor 
 
 This project predicts the number of views a YouTube video might get *before* it is uploaded, based on metadata like title length, tags, category, and publish time.
@@ -23,12 +21,8 @@ This project predicts the number of views a YouTube video might get *before* it 
 4. Open `index.html` in your browser
 
 ## Screenshots
-(Add screenshots here)
+![Screenshot 2025-06-03 123205](https://github.com/user-attachments/assets/05327390-a310-48f9-a26b-0e3c6f3bb440)
 
-## License
-MIT License
-
----
 
 Feel free to contribute or raise issues!
 
